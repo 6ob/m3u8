@@ -21,3 +21,24 @@ https://www.bejson.com/json/col2json/
 >  }
   
   即为完整的json文件了
+
+
+----------------------------------------------------------------------
+以下为x.web
+
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp1.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp2.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp3.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp4.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp5.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp6.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp7.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp8.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp9.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/ttxpp10.xweb
+
+https://gitee.com/zhang_san_dao/tv/blob/master/all.list
+
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku1.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku2.xweb
+https://gitee.com/zhang_san_dao/tv/raw/master/xweb/pianku3.xweb
